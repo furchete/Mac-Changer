@@ -1,6 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/98003412/200141027-e99c6021-cb6e-4388-8be6-4fd98913d81a.png)
 
+![image](https://user-images.githubusercontent.com/98003412/200144326-df293e86-97ec-4f53-8897-90ff83b51167.png)
 
 
 # Mac-Changer
