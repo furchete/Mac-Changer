@@ -28,3 +28,4 @@ sudo python (namefile) --h
                         New MAC Address
                         
 
+you must enter the mac in lower case 
