@@ -11,10 +11,14 @@ How to apply the command?
 sudo python (namefile) + -i eth0 -m (new mac address)
 
 Help
+
 sudo python (namefile) --h 
+
   -h, --help            show this help message and exit
+  
   -i INTERFACE, --interface = INTERFACE
                         Interface to change MAC Address
+                        
   -m NEW_MAC, --mac = NEW_MAC
                         New MAC Address
                         
